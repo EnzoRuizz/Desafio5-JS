@@ -32,5 +32,5 @@ while(i != cant){
         acumulador();
     } 
     resultado();
-        alert(`La familia ${apellido} tiene un promedio de edad de ${promedio}, y suma total de edades es de ${suma}`) 
+        alert(`La familia ${apellido} tiene un promedio de edad de ${promedio}, y la suma total de las edades es de ${suma}`) 
 }
